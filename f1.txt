@@ -1,0 +1,10 @@
+Ai practical (final)
+
+Practical 1 : BFS & DFS 
+Practical 2 : ID-DFS
+Practical 3 : BeFS 
+Practical 4 : A* for graph 
+Practical 6 : Min max alpha beta pruning 
+Practical 7 : Hillclimbing for 8 puzzle 
+Practical 8 : Water jug using bfs
+Practical 9 : N queen with csp (backtracking)
